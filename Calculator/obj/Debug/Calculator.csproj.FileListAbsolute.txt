@@ -1,0 +1,12 @@
+c:\users\mrgas\source\repos\SWT_Calculator\Calculator\bin\Debug\Calculator.dll
+c:\users\mrgas\source\repos\SWT_Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\mrgas\source\repos\SWT_Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+c:\users\mrgas\source\repos\SWT_Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+c:\users\mrgas\source\repos\SWT_Calculator\Calculator\obj\Debug\Calculator.dll
+c:\users\mrgas\source\repos\SWT_Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\mrgas\source\repos\SWT_Exercise2\Calculator\bin\Debug\Calculator.dll
+C:\Users\mrgas\source\repos\SWT_Exercise2\Calculator\bin\Debug\Calculator.pdb
+C:\Users\mrgas\source\repos\SWT_Exercise2\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\mrgas\source\repos\SWT_Exercise2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mrgas\source\repos\SWT_Exercise2\Calculator\obj\Debug\Calculator.dll
+C:\Users\mrgas\source\repos\SWT_Exercise2\Calculator\obj\Debug\Calculator.pdb
