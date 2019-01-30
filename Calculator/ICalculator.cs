@@ -39,5 +39,13 @@ namespace Calculator
         /// <param name="exp">The power to raise to</param>
         /// <returns>The power x^exp</returns>
         double Power(double x, double exp);
+
+        /// <summary>
+        /// Calculates the result of division of 2 numbers
+        /// </summary>
+        /// <param name="dividend">The number on the top</param>
+        /// <param name="divisor">The number at the bottom</param>
+        /// <returns>Result of the division dividend/divisor.</returns>
+        double Divide(double dividend, double divisor);
     }
 }
