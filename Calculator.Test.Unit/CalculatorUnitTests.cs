@@ -135,5 +135,22 @@ namespace Calculator.Test.Unit
 
 
         #endregion
+        #region Divide Tests
+        [Test]
+        public void Divide_Divide2By0_ExceptionThrown()
+        {
+            Assert.That(() => _uutCalculator.Divide(2.0, 0), Throws.TypeOf<DivideByZeroException>());
+        }
+
+        [TestCase(0, 2, 0)]
+        [TestCase(4, 2, 2)]
+        [TestCase(1, 3, 0.33)]
+        [TestCase(5, 5, 1)]
+        public void Divide_DivisionIntegers_ResultsAreRight(double dividend, double divisor, double result)
+        {
+            var divideResult = _uutCalculator.Divide(dividend, divisor);
+            Assert.That(divideResult, Is.EqualTo(divideResult).Within(0.1));
+        }
+        #endregion
     }
 }
