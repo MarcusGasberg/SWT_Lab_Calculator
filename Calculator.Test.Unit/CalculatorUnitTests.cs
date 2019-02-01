@@ -152,5 +152,33 @@ namespace Calculator.Test.Unit
             Assert.That(divideResult, Is.EqualTo(divideResult).Within(0.1));
         }
         #endregion
+        #region Accumulator Tests
+        [Test]
+        public void Add_Add2And2()
+        {
+            Assert.That(_uutCalculator.Add(2,2), Is.EqualTo(4));
+            Assert.That(_uutCalculator.Accumulator.Equals(4));
+        }
+
+        [TestCase(0, 2, 2)]
+        [TestCase(4, 2, 6)]
+        [TestCase(1, 3, 4)]
+        [TestCase(5, 5, 10)]
+        public void Add_AddIntegers_resultAreRight(double a, double b, double result)
+        {
+            _uutCalculator.Add(a, b);
+            Assert.That(_uutCalculator.Accumulator.Equals(result));
+        }
+
+        [TestCase(0, 2, -2)]
+        [TestCase(4, 2, 2)]
+        [TestCase(1, 3, -2)]
+        [TestCase(5, 5, 0)]
+        public void Subtract_SubtractIntegers_resultAreRight(double a, double b, double result)
+        {
+            _uutCalculator.Subtract(a, b);
+            Assert.That(_uutCalculator.Accumulator.Equals(result));
+        }
+        #endregion
     }
 }
