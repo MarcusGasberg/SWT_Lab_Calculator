@@ -7,6 +7,8 @@ using NUnit.Framework;
 
 namespace Calculator.Test.Unit
 {
+    
+    //Testing auto build
     [TestFixture]
     public class CalculatorUnitTests
     {
