@@ -165,7 +165,7 @@ namespace Calculator.Test.Unit
         [Test]
         public void Add_Add2And2()
         {
-            Assert.That(_uutCalculator.Add(2,2), Is.EqualTo(4));
+            _uutCalculator.Add(2, 2);
             Assert.That(_uutCalculator.Accumulator.Equals(4));
         }
 
@@ -188,6 +188,25 @@ namespace Calculator.Test.Unit
             _uutCalculator.Subtract(a, b);
             Assert.That(_uutCalculator.Accumulator.Equals(result));
         }
+        
+        [Test]
+        public void Accumalator_SubtractIntegersFromAccumaltor_ResultsAccumalated()
+        {
+            _uutCalculator.Subtract(4);
+            _uutCalculator.Subtract(5);
+            Assert.That(_uutCalculator.Accumulator.Equals(-9));
+        }
+
+        [Test]
+        public void Accumalator_Clear_AccumalatorIs0()
+        {
+            _uutCalculator.Subtract(4);
+            _uutCalculator.Subtract(5);
+            _uutCalculator.Clear();
+            Assert.That(_uutCalculator.Accumulator.Equals(0));
+        }
+
+
         #endregion
     }
 }
