@@ -132,6 +132,13 @@ namespace Calculator.Test.Unit
             Assert.That(powerRes, Is.EqualTo(result).Within(0.1));
         }
 
+        [Test]
+        public void Power_0Power0_Returns1()
+        {
+            var powerRes = _uutCalculator.Power(0, 0);
+            Assert.That(powerRes, Is.EqualTo(1));
+        }
+
 
 
         #endregion

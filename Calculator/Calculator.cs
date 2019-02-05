@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -48,27 +49,32 @@ namespace Calculator
 
         public double Add(double addend)
         {
-            throw new NotImplementedException();
+            return Accumulator += addend;
         }
 
         public double Subtract(double subtractor)
         {
-            throw new NotImplementedException();
+            return Accumulator -= subtractor;
         }
 
         public double Multiply(double multiplier)
         {
-            throw new NotImplementedException();
+            return Accumulator *= multiplier;
         }
 
         public double Divide(double divisor)
         {
-            throw new NotImplementedException();
+            if (divisor.Equals(0))
+            {
+                throw new DivideByZeroException();
+            }
+
+            return Accumulator /= divisor;
         }
 
         public double Power(double exponent)
         {
-            throw new NotImplementedException();
+            return Accumulator = Math.Pow(Accumulator, exponent);
         }
 
     }

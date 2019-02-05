@@ -16,3 +16,9 @@ C:\Users\JonathanLydemann\Source\Repos\SWT_Lab_Calculator\Calculator\obj\Debug\C
 C:\Users\JonathanLydemann\Source\Repos\SWT_Lab_Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\JonathanLydemann\Source\Repos\SWT_Lab_Calculator\Calculator\obj\Debug\Calculator.dll
 C:\Users\JonathanLydemann\Source\Repos\SWT_Lab_Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator\bin\Debug\Calculator.dll
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator\obj\Debug\Calculator.dll
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator\obj\Debug\Calculator.pdb

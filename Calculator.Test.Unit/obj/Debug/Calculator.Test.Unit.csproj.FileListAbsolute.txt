@@ -22,3 +22,15 @@ C:\Users\JonathanLydemann\Source\Repos\SWT_Lab_Calculator\Calculator.Test.Unit\o
 C:\Users\JonathanLydemann\Source\Repos\SWT_Lab_Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CopyComplete
 C:\Users\JonathanLydemann\Source\Repos\SWT_Lab_Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.dll
 C:\Users\JonathanLydemann\Source\Repos\SWT_Lab_Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.pdb
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.dll
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.pdb
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator.Test.Unit\bin\Debug\Calculator.dll
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator.Test.Unit\bin\Debug\nunit.framework.dll
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator.Test.Unit\bin\Debug\Calculator.pdb
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator.Test.Unit\bin\Debug\nunit.framework.pdb
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator.Test.Unit\bin\Debug\nunit.framework.xml
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csprojAssemblyReference.cache
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CopyComplete
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.dll
+C:\Users\mrgas\source\repos\SWD_CardGame\SWT_Lab_Calculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.pdb
